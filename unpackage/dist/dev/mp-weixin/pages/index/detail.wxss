@@ -1,0 +1,9 @@
+.detail {
+  overflow: auto;
+  height: 100%;
+  background: #ffffff;
+}
+.detail .content {
+  padding: 20px;
+  line-height: 25px;
+}

@@ -1,0 +1,1 @@
+<view class="detail"><uni-title wx:if="{{a}}" u-i="4c9ea9a1-0" bind:__l="__l" u-p="{{a}}"></uni-title><uni-title wx:if="{{b}}" u-i="4c9ea9a1-1" bind:__l="__l" u-p="{{b}}"></uni-title><view class="content"><rich-text nodes="{{c}}"/></view></view>
